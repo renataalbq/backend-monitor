@@ -1,0 +1,18 @@
+{
+    "monitores": [
+      {"id":1,"email":"renata@gmail.com","cpf":"33439638014","name":"Renata", "horario": "13h as 15h", "dias": "segunda e terça", "contato": "99112313", "codDisciplina": 1, "sala": "info 2"},
+      {"id":2,"email":"joao@gmail.com","cpf":"22233343546","name":"Joao", "horario": "13h as 15h", "dias": "quarta e quinta", "contato": "99112234", "codDisciplina": 1, "sala": "info 3"}
+    ],
+    "disciplinas": [
+      { "id": 1, "titulo": "Estrutura de dados", "curso": "Sistemas para Internet", "professor": "Alex Sandro"},
+      { "id": 2, "titulo": "Análise e Projeto de Sistemas", "curso": "Sistemas para Internet", "professor": "Damires"},
+      { "id": 3, "titulo": "Comércio Eletronico", "curso": "Sistemas para Internet", "professor": "Heremita"},
+      { "id": 4, "titulo": "Empreendedorismo", "curso": "Sistemas para Internet", "professor": "Jaildo"},
+      { "id": 5, "titulo": "Empreendedorismo", "curso": "Redes para Computadores", "professor": "Jaildo"},
+      { "id": 6, "titulo": "Programação para Dispositivos Móveis", "curso": "Sistemas para Internet", "professor": "Valéria"},
+      { "id": 7, "titulo": "Programação para Web 1", "curso": "Sistemas para Internet", "professor": "Gustavo Wagner"},
+      { "id": 8, "titulo": "Programação Orientada a Objetos", "curso": "Sistemas para Internet", "professor": "Fausto"},
+      { "id": 9, "titulo": "Algoritmo e Programação Estruturada", "curso": "Sistemas para Internet", "professor": "Candido"}
+
+    ]
+}
