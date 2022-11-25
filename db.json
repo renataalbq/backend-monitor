@@ -14,5 +14,12 @@
       { "id": 8, "titulo": "Programação Orientada a Objetos", "curso": "Sistemas para Internet", "professor": "Fausto"},
       { "id": 9, "titulo": "Algoritmo e Programação Estruturada", "curso": "Sistemas para Internet", "professor": "Candido"}
 
+    ],
+    "login": [
+      {"id":1,"email":"renata.albuquerque@academico.ifpb.edu.br","password": "1234qwer","name":"Renata Albuquerque"},
+      {"id":2,"email":"ryan.brandao@academico.ifpb.edu.br","password": "1234qwer","name":"Ryan Nobrega"},
+      {"id":3,"email":"adrianderson.lira@academico.ifpb.edu.br","password": "1234qwer","name":"Adrianderson Lira"},
+      {"id":4,"email":"messias.souza@academico.ifpb.edu.br","password": "1234qwer","name":"Messias Souza"},
+      {"id":5,"email":"fabiana.beda@academico.ifpb.edu.br","password": "1234qwer","name":"Fabiana Beda"}
     ]
 }
