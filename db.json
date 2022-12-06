@@ -1,6 +1,6 @@
 {
     "alunos": [
-      {"nome": "João Victor","matricula": "33439638014","abrevCurso": "SI","contato": "991283944,","urlImage": "https://i.ibb.co/R2gv9xs/man35.png", "disciplina": "POO","horario": "13:00-15:00, 16:00-17:00, 16:00-17:00","sala": "LAB info 58","diasDaSemana": "segunda-feira, quarta-feira, sexta-feira"},
+      {"nome": "João Victor","matricula": "33439638014","abrevCurso": "SI","contato": "991283944,","urlImage": "https://i.ibb.co/R2gv9xs/man35.png", "disciplina": "POO","horario": "13:00-15:00, 16:00-17:00, 16:00-17:00","sala": "LAB info 58","diasDaSemana": ["segunda-feira", "quarta-feira", "sexta-feira"]},
       {"nome": "Fábio Benício Moura","matricula": "06778734418","abrevCurso": "SI","contato": "987238234","urlImage": "https://i.ibb.co/2FdsQMf/man39.png","disciplina": "POO","horario": "13:00-15:00, 16:00-17:00, 16:00-17:00","sala": "LAB info 58","diasDaSemana": "segunda-feira, quarta-feira, sexta-feira"},
       {"nome": "Giovana Analu Silva","matricula": "61811160441","abrevCurso": "SI","contato": "997263098","urlImage": "https://i.ibb.co/1XSbBmK/woman61.png", "disciplina": "PWEB1","horario": "14:00-16:00, 13:00-14:00","sala": "LAB info 57","diasDaSemana": "quarta-feira, quinta-feira"},
       {"nome": "André Luiz Lima","matricula": "48736475827","abrevCurso": "SI","contato": "998657431","urlImage": "https://i.ibb.co/MhWK7z4/man37.png", "disciplina": "PWEB1","horario": "14:00-16:00, 13:00-14:00","sala": "LAB info 57","diasDaSemana": "quarta-feira, quinta-feira"},
